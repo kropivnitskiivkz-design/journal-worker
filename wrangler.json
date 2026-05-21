@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "journal-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ae18781d-eb4d-48c2-b5dc-26d03c91646b",
+			"database_name": "journal_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
